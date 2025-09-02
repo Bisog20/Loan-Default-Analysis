@@ -16,7 +16,7 @@ This project demonstrates how data visualization supports smarter lending decisi
 - Risk segmentation analysis
  
 ## 🔹 Files
-- `Dashboard_Preview.png` → Dashboard snapshot
+![Dashboard](Dashboard_Preview.png)
 
 ## 🔹 Insights in Action
 This dashboard can help financial institutions:
