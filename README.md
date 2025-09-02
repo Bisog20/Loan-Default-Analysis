@@ -14,7 +14,7 @@ This project demonstrates how data visualization supports smarter lending decisi
 - Power BI (data modeling, DAX, visualization)
 - Python (Data cleaning & transformation)
 - Risk segmentation analysis
-
+ 
 ## 🔹 Files
 - `Dashboard_Preview.png` → Dashboard snapshot
 
